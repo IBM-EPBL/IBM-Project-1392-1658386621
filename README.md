@@ -29,9 +29,22 @@
 <hr>
 </div>
 <hr>
+(EXPIRE IN 11 DAYS)
 
+# UPTO SPRINT 03
 [PROJECT PHASE 03](http://169.51.204.215:30106/) <br>
+
+<hr>
+
+# NOTE 
+# ADMIN PAGE :
+- Go to User Login page <br>
+- ID : 1111  <br>
+- PASSWORD : 1111 <br>
+
 [PROJECT COMPLETION](http://169.51.204.215:31967/)
+
+
 
 <hr>
 

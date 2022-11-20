@@ -5,7 +5,13 @@
 - [x] SPRINT 03
 - [x] SPRINT 04
 
-## PROJECT PROTOTYPE
+## PROJECT PROTOTYPE UPTO SPRINT 3
 [PROJECT COMPLETION](http://169.51.204.215:30106/)
+
+# NOTE 
+# ADMIN PAGE :
+- Go to User Login page <br>
+- ID : 1111  <br>
+- PASSWORD : 1111 <br>
 
 
